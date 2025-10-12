@@ -75,7 +75,7 @@ class Inventory
 
 class Program
 {
-    static void Main()
+    static void Main1()
     {
         Inventory inventory = new Inventory(15); // лимит веса — 15
         bool running = true;
