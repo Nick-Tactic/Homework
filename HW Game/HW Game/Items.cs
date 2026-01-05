@@ -20,6 +20,11 @@ namespace HW_Game
         public ArmorType ArmorType { get; set; }
         public int ArmorModifyer { get; set; }
     }
+
+    internal interface IsBulkBonus
+    {
+        public int BulkBonus { get; set; }
+    }
     
     internal class Item
     {
@@ -78,6 +83,16 @@ namespace HW_Game
             DamageModifyer = damageModifyer;
             ArmorType = armorType;
             ArmorModifyer = armorModifyer;
+        }
+    }
+
+    internal class Backpack : Item, IsBulkBonus
+    {
+        public int BulkBonus { get; set; } = 0;
+
+        public Backpack(string name, string description, int bulk, int price, int bulkBonus) : base(name, description, bulk, price)
+        {
+            BulkBonus = bulkBonus;
         }
     }
 }
