@@ -1,0 +1,15 @@
+D:\Repos\Homework\Primary_Homework\bin\Debug\net9.0\Primary_Homework.exe
+D:\Repos\Homework\Primary_Homework\bin\Debug\net9.0\Primary_Homework.deps.json
+D:\Repos\Homework\Primary_Homework\bin\Debug\net9.0\Primary_Homework.runtimeconfig.json
+D:\Repos\Homework\Primary_Homework\bin\Debug\net9.0\Primary_Homework.dll
+D:\Repos\Homework\Primary_Homework\bin\Debug\net9.0\Primary_Homework.pdb
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.AssemblyInfoInputs.cache
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.AssemblyInfo.cs
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.csproj.CoreCompileInputs.cache
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.sourcelink.json
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.dll
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\refint\Primary_Homework.dll
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.pdb
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\Primary_Homework.genruntimeconfig.cache
+D:\Repos\Homework\Primary_Homework\obj\Debug\net9.0\ref\Primary_Homework.dll

@@ -1,0 +1,15 @@
+D:\Repos\Homework\C#_Homework\bin\Debug\net9.0\CS_Homework.exe
+D:\Repos\Homework\C#_Homework\bin\Debug\net9.0\CS_Homework.deps.json
+D:\Repos\Homework\C#_Homework\bin\Debug\net9.0\CS_Homework.runtimeconfig.json
+D:\Repos\Homework\C#_Homework\bin\Debug\net9.0\CS_Homework.dll
+D:\Repos\Homework\C#_Homework\bin\Debug\net9.0\CS_Homework.pdb
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.AssemblyInfoInputs.cache
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.AssemblyInfo.cs
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.csproj.CoreCompileInputs.cache
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.sourcelink.json
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.dll
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\refint\CS_Homework.dll
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.pdb
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\CS_Homework.genruntimeconfig.cache
+D:\Repos\Homework\C#_Homework\obj\Debug\net9.0\ref\CS_Homework.dll
