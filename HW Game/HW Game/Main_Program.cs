@@ -7,7 +7,7 @@ namespace HW_Game
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main_Test(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Random random = new Random();
